@@ -1,6 +1,8 @@
 ## Characteristics of Cloud Native Applications
 Cloud Native Applications harness the power of the cloud to provide increased resilience, agility, operability, and observability. Let's dive a bit deeper into these characteristics.
 
+![Software Development Evolution Timeline](https://claude.ai/public/artifacts/def7a72e-2114-41ea-b7a8-62712b1e4447)   
+
 ### Resiliency
 Resilient applications are designed to withstand failures and continue to function or recover quickly. They typically make use of patterns such as redundancy, failover, and graceful degradation. Self-healing, where systems automatically detect and recover from failure, is a key aspect of resilient cloud-native applications. Kubernetes, for instance, has a built-in self-healing mechanism where it maintains a desired number of pod replicas and replaces failed instances.
 
