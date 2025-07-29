@@ -15,6 +15,10 @@ Observability is the ability to understand the internal state of your system bas
 
 It is important as part of your studies especially if you’re planning on taking the KCNA exam to remember these characteristics! A friendly anagram for this is “RAOO: Racoons are Often Observant”
 
+### What Is Cloud Native Architecture?
+Cloud native architecture concerns the design of applications or services that were made specifically to exist in the cloud, rather than in a more traditional on-premises infrastructure. A successful cloud native architecture needs to be easy to maintain and supported by a next-generation cloud, while also being cost efficient and self-healing. Compared to legacy systems, cloud native architectures have a greater level of flexibility, without having to rely on physical servers.
+
+This is where microservices and serverless functions can play a large and important role. Microservices are the core of cloud native application architecture, and they have become a key tool for companies that are making the move to the cloud. Microservices arrange an application into multiple, independent services, each of which serves a specific function. Many software companies take advantage of microservices because they support DevOps, enable flexibility, and improve scalability, while also reducing costs. Cloud native microservices communicate with each other via APIs and use event-driven architecture, which serves to enhance the overall performance of each application.
 
 ### 1. Mission of the Cloud Native Computing Foundation.
 The Foundation’s mission is to make cloud native computing ubiquitous. The CNCF Cloud Native Definition v1.0 says:
