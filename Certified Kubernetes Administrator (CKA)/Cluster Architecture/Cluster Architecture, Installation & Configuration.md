@@ -55,6 +55,8 @@ Node controller: For checking the cloud provider to determine if a node has been
 Route controller: For setting up routes in the underlying cloud infrastructure
 Service controller: For creating, updating and deleting cloud provider load balancers
 
+![Cluster Components](https://mygitpicks.s3.af-south-1.amazonaws.com/certified+k8s+administrator/cluster+components.png)
+
 ## WORKER NODE COMPONENTS
 Node components run on every node, maintaining running pods and providing the Kubernetes runtime environment.
 
